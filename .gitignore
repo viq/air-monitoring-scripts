@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# configuration file
+airbot.ini
+purifier.ini
