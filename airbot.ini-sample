@@ -1,0 +1,27 @@
+[airly]
+APIKEY = 0123456789absdef0123456789abcdef
+
+[waqi]
+APIKEY = 0123456789abcdef0123456789abcdef01234567
+SENSOR = @3402
+
+[gios]
+DISTANCE_DG = 0.05
+
+[location]
+LATITUDE = 50.0530165
+LONGITUDE = 19.9335881
+DISTANCE = 2500
+DISTANCE_DG = 0.025
+
+[norms]
+# http://ec.europa.eu/environment/air/quality/standards.htm
+PM25_24H = 25
+PM25_1H = 350
+PM10 = 40
+SO2_24H = 125
+SO2_1H = 200
+NO2_24H = 50
+CO = 10000
+BENZENE = 5
+O3 = 120
